@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/iMatuques">
-  <img style="width: calc(100% / 2)" height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&layout=compact&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style="width: calc(100% / 2)" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&langs_count=16&theme=dark"/>
+  <img style="width: calc(100% / 2)" height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="width: calc(100% / 2.1)" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&langs_count=16&theme=dark"/>
    </a>
 </div>
 
