@@ -15,12 +15,10 @@
 <p align="left">
    <img src="https://cdn.discordapp.com/attachments/998222698712924280/1063572450513780808/Frame_3.png" border="0" width="100%" height="auto"
 </p>
-#
 
 <div align="center">
 <a href="https://github.com/iMatuques">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&langs_count=7&theme=github_dark&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&langs_count=7&theme=github_dark&cache_seconds=1800"/>
 
 
    
