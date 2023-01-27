@@ -43,8 +43,4 @@ Recentemente iniciei meus estudos na área de Front-end. Busco aprimorar meu con
 </div>  
     
 #
-    
- <p dir="auto"; align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/ibrahimcesar/ibrahimcesar/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/ibrahimcesar/ibrahimcesar/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
-</p>
-    
+
