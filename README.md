@@ -1,4 +1,4 @@
-## Hi, I'm Ingrid Matuques 👋
+## Hi, I'm Ingrid Matuques 👩🏽‍💻
 
 
 <h4> <b>𝗥𝗲𝗱𝗲𝘀 𝗦𝗼𝗰𝗶𝗮𝗶𝘀<b></h4>
