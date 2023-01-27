@@ -12,6 +12,9 @@
 - 📍 ɢᴀʀçᴀ - ꜱᴘ
 - 🔋 20 ᴀɴᴏꜱ
 
+<p align="left">
+   <img src="https://cdn.discordapp.com/attachments/998222698712924280/1063572450513780808/Frame_3.png" border="0" width="100%" height="auto"
+</p>
 #
 
 <div align="center">
