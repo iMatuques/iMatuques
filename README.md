@@ -16,10 +16,11 @@
    <img src="https://cdn.discordapp.com/attachments/998222698712924280/1063572450513780808/Frame_3.png" border="0" width="100%" height="auto"
 </p>
 
- <div align="center">
-  <a href="https://github.com/iMatutuques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&langs_count=16&theme=dark"/>
+<div align="center">
+  <a href="https://github.com/iMatuques">
+  <img style="width: calc(100% / 2.1)" height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="width: calc(100% / 2)" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&langs_count=16&theme=dark"/>
+   </a>
 </div>
 
 ## 📚 Estudos • Plataformas
