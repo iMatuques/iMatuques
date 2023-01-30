@@ -45,6 +45,6 @@ Recentemente iniciei meus estudos na área de Front-end. Busco aprimorar meu con
     
 #
 
- ![Snake animation](https://github.com/iMatuques/iMAtuques/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/iMatuques/iMatuques/blob/output/github-contribution-grid-snake.svg)
  
  
