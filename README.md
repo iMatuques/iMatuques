@@ -45,3 +45,4 @@ Recentemente iniciei meus estudos na área de Front-end. Busco aprimorar meu con
     
 #
    
+   ![snake gif](https://github.com/iMatuques/iMatuques/blob/output/github-contribution-grid-snake.svg)
