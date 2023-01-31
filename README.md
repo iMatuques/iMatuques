@@ -28,7 +28,7 @@
 Recentemente iniciei meus estudos na área de Front-end. Busco aprimorar meu conhecimento diariamente atráves de cursos, pesquisas e desenvolvendo projetos para colocar em prática o conhecimento adquirido.
     <br>
     <br>
-  
+   
 <div align="center">   
 <img src="https://cdn.discordapp.com/attachments/794015985450352661/958159489004093491/20210917072017065_socialPicture.png" height="100" width="auto"/>
 <img src="https://cdn.discordapp.com/attachments/794015985450352661/958160695835394068/Problemas-de-algoritmo-do-YouTube-e-mais-noticias-de-tecnologia.webp" height="100" width="auto"/>
@@ -44,3 +44,5 @@ Recentemente iniciei meus estudos na área de Front-end. Busco aprimorar meu con
 </div>  
     
 #
+   
+    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=iMatuques&repo=iMatuques&theme=react)](https://github.com/iMatuques)
