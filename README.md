@@ -13,7 +13,7 @@
 - 🔋 20 ᴀɴᴏꜱ
 
 <p align="left">
-   <img src="https://cdn.discordapp.com/attachments/998222698712924280/1063572450513780808/Frame_3.png" border="0" width="100%" height="auto"
+   <img src="[https://cdn.discordapp.com/attachments/998222698712924280/1063572450513780808/Frame_3.png](https://cdn.discordapp.com/attachments/930441255140352040/1103014024494469283/banner_ingrid.png)" border="0" width="100%" height="auto"
 </p>
 
    <div align="center">
@@ -30,6 +30,7 @@ Recentemente iniciei meus estudos na área de Front-end. Busco aprimorar meu con
     <br>
    
 <div align="center">   
+<img src="https://camo.githubusercontent.com/3bd5c3b95ba57adf4e98bc415906b9ddab9a995a586bfdb61e144452eedb4a81/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3739343031353938353435303335323636312f3935383136303330333132363838343337322f756e6e616d65642e706e67" height="100" width="auto"/>
 <img src="https://cdn.discordapp.com/attachments/794015985450352661/958159489004093491/20210917072017065_socialPicture.png" height="100" width="auto"/>
 <img src="https://cdn.discordapp.com/attachments/794015985450352661/958160695835394068/Problemas-de-algoritmo-do-YouTube-e-mais-noticias-de-tecnologia.webp" height="100" width="auto"/>
 </div>
