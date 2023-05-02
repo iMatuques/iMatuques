@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/imatuques//)](https://www.instagram.com/hect_sv/)
 
 
-- 🔭 ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ: ꜰᴜʟʟᴛʀᴀᴄᴋ - ꜰᴜʟʟᴛɪᴍᴇ ɢᴇꜱᴛᴏʀᴀ ᴅᴇ ᴅᴀᴅᴏꜱ ʟᴛᴅᴀ
+- 🔭 ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ: ꜰᴜʟʟᴛʀᴀᴄᴋ - ꜰᴜʟʟᴛɪᴍᴇ ɢᴇꜱᴛᴏʀᴀ ᴅᴇ ᴅᴀᴅᴏꜱ ʟᴛᴅᴀ & ᴍᴇxᴘᴇɴꜱᴇꜱ - ɢᴇꜱᴛÃᴏ ꜰɪɴᴀɴᴄᴇɪʀᴀ
 - 📍 ɢᴀʀçᴀ - ꜱᴘ
 - 🔋 20 ᴀɴᴏꜱ
 
