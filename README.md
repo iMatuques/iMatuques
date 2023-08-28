@@ -13,7 +13,7 @@
 - 🔋 20 ᴀɴᴏꜱ
 
 <p align="left">
-   <img src="https://cdn.discordapp.com/attachments/930441255140352040/1103014024494469283/banner_ingrid.png" border="0" width="100%" height="auto"
+   <img src="https://discord.com/channels/@me/998222698712924280/1145722437384810588" border="0" width="100%" height="auto"
 </p>
 
    <div align="center">
