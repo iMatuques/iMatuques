@@ -8,8 +8,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/imatuques//)](https://www.instagram.com/hect_sv/)
 
 
-- :satellite: ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ: ꜰᴜʟʟᴛɪᴍᴇ ɢᴇꜱᴛᴏʀᴀ ᴅᴇ ᴅᴀᴅᴏꜱ ʟᴛᴅᴀ - ʜᴀʀᴅᴡᴀʀᴇ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ ᴀᴛ ꜰᴜʟʟᴛʀᴀᴄᴋ
-- :bar_chart: ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ: ᴍᴇxᴘᴇɴꜱᴇꜱ ɢᴇꜱᴛÃᴏ ꜰɪɴᴀɴᴄᴇɪʀᴀ - ᴄᴛᴏ
+- :satellite_orbital: ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ: ꜰᴜʟʟᴛɪᴍᴇ ɢᴇꜱᴛᴏʀᴀ ᴅᴇ ᴅᴀᴅᴏꜱ ʟᴛᴅᴀ - ʜᴀʀᴅᴡᴀʀᴇ ɪɴᴛᴇɢʀᴀᴛɪᴏɴ ᴀᴛ ꜰᴜʟʟᴛʀᴀᴄᴋ
+- :coin: ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ: ᴍᴇxᴘᴇɴꜱᴇꜱ ɢᴇꜱᴛÃᴏ ꜰɪɴᴀɴᴄᴇɪʀᴀ - ᴄᴛᴏ
 - 📍 ɢᴀʀçᴀ - ꜱᴘ
 - 🔋 20 ᴀɴᴏꜱ
 
