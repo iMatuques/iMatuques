@@ -5,7 +5,7 @@
     CTO <a href="http://www.mexpenses.net">Mexpenses</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-[![Twitter: curly hair girl](https://img.shields.io/twitter/follow/matuques_?style=social)](https://twitter.com/matuques_)
+[![Instagram: imatuques](https://img.shields.io/instagram/follow/matuques_?style=social)](https://[twitter.com/matuques](https://www.instagram.com/imatuques?igsh=aXE2a251OHVkOWti&utm_source=qr)_)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/IngridMatuques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ingrid-matuques-611a65234/)
 [![GitHub iMatuques](https://img.shields.io/github/followers/iMatuques?label=follow&style=social)](https://github.com/iMatuques)
 
@@ -18,11 +18,12 @@ const ingrid = {
     code: ["HTML", "CSS", "Javascript", "Git", "C++"],
     experience: ["Lead", "Team training", "Support"],
     tools: ["Hercules", "Packet Sender", "Photoshop", "Docklight", "API's Client"],
-    challenge: "I am gradually studying to work and become a specialist in Front-end development in the future."
+    challenge: "I'm gradually studying to work and become a specialist in Front-end development in the future."
 };
 ```
 
-- 📍 <b>Brazil, Alvinlãndia SP</b> - 21 years
+- 📍 <b>Brazil, Alvinlândia SP</b> -
+-  :battery: 21 years
 - 📬 ingridmatuques@icloud.com</br>
 - <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>imatuques</b>
 
