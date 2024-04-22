@@ -5,7 +5,6 @@
     CTO <a href="http://www.mexpenses.net">Mexpenses</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-[![Instagram: imatuques](https://img.shields.io/instagram/follow/matuques_?style=social)](https://[twitter.com/matuques](https://www.instagram.com/imatuques?igsh=aXE2a251OHVkOWti&utm_source=qr)_)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/IngridMatuques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ingrid-matuques-611a65234/)
 [![GitHub iMatuques](https://img.shields.io/github/followers/iMatuques?label=follow&style=social)](https://github.com/iMatuques)
 
