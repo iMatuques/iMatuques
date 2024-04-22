@@ -1,7 +1,6 @@
 <h2> Hi, I'm Ingrid Matuques! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
-<img src="https://general-storage-mexpenses.s3.amazonaws.com/ingrid.png" width="200" style="border-radius: 50%">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8f8f8&height=120&section=header"/>
 <h3>
     Lead Software | Hardware Integration Analyst at <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> &
     CTO <a href="http://www.mexpenses.net">Mexpenses</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -42,3 +41,5 @@ const ingrid = {
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/dio.jpg" height="100" width="auto"/>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/aws-training.png" height="100" width="auto"/>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8f8f8&height=120&section=header"/>
