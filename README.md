@@ -1,8 +1,8 @@
-<h2> Hi, I'm Ingrid Matuques! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8f8f8&height=120&section=header"/>
 
-<img src="https://general-storage-mexpenses.s3.amazonaws.com/ingrid.png" width="200" style="border-radius: 50%" align="center">
+<h2> Hi, I'm Ingrid Matuques! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3>
     Lead Software | Hardware Integration Analyst at <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> &
     CTO <a href="http://www.mexpenses.net">Mexpenses</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
