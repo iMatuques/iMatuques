@@ -17,7 +17,7 @@
 
 ```javascript
 const ingrid = {
-    code: ["HTML", "CSS", "Javascript", "Git", "C++"],
+    code: ["HTML", "CSS", "Javascript", "Git", "Cypress", "Figma"],
     experience: ["Lead", "Team training", "Support"],
     tools: ["Hercules", "Packet Sender", "Photoshop", "Docklight", "API's Client"],
     challenge: "I'm gradually studying to work and become a specialist in Front-end development in the future."
