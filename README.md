@@ -7,7 +7,6 @@
 </h3>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/IngridMatuques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ingrid-matuques-611a65234/)
-[![GitHub iMatuques](https://img.shields.io/github/followers/iMatuques?label=follow&style=social)](https://github.com/iMatuques)
 
 <hr/>
 
