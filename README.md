@@ -42,6 +42,7 @@ const ingrid = {
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/rocketseat.png" height="100" width="auto"/>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/dio.jpg" height="100" width="auto"/>
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/aws-training.png" height="100" width="auto"/>
+<img src="https://general-storage-mexpenses.s3.amazonaws.com/youtube-training.png" height="100" width="auto"/>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
