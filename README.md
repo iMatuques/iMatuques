@@ -13,7 +13,7 @@
 
 <hr/>
 
-### <img src="https://i.giphy.com/du3J3cXyzhj75IOgvA.webp" width="25" style="border-radius: 50%"> About me
+### <p>☕️&nbsp;About me</p>
 
 ```javascript
 const ingrid = {
