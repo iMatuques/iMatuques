@@ -30,8 +30,8 @@ const ingrid = {
 - <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>imatuques</b>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff&bg_color=00ff00" alt=" Ingrid Matuques github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=00ff00" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=fff&bg_color=0d1117" alt=" Ingrid Matuques github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&hide_border=true&title_color=00FF00&text_color=fff&bg_color=0d1117" />
 </div>
 
 
