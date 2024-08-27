@@ -34,7 +34,7 @@ const ingrid = {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&hide_border=true&title_color=00FF00&text_color=fff&bg_color=0d1117" />
 </div>
 
-<p dir="auto">
+<p dir="center">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ibrahimcesar/ibrahimcesar/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/ibrahimcesar/ibrahimcesar/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </p>
 
