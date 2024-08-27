@@ -1,10 +1,9 @@
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
 <h2> Hi, I'm Ingrid Matuques! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3>
-   Specialist in Hardware & Software integration <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   Specialist in Hardware & Software integration <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> &
+    Quality Assurance <a href="http://www.mexpenses.net">Mexpenses</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/IngridMatuques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ingrid-matuques-611a65234/)
@@ -19,14 +18,12 @@ const ingrid = {
     code: ["HTML", "CSS", "Javascript", "Git", "Cypress", "Figma"],
     experience: ["Lead", "Team training", "Support"],
     tools: ["Hercules", "Packet Sender", "Photoshop", "Docklight", "API's Client"],
-    challenge: "I'm gradually studying to work and become a specialist in Front-end development in the future."
+    location: "Brazil, Garça",
+    age: 21,
+    email: "ingridmatuques@icloud.com",
+    challenge: "Dedicating myself every day to being a good professional and always looking for new challenges.",
 };
 ```
-
-- 📍 <b>Brazil, Garça SP</b> -
--  :battery: 21 years
-- 📬 ingridmatuques@icloud.com</br>
-- <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>imatuques</b>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=fff&bg_color=0d1117" alt=" Ingrid Matuques github stats" /> 
