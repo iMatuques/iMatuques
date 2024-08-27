@@ -4,8 +4,7 @@
 
 <h2> Hi, I'm Ingrid Matuques! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3>
-   Specialist in Hardware & Software integration <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> &
-    CTO <a href="http://www.mexpenses.net">Mexpenses</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   Specialist in Hardware & Software integration <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/IngridMatuques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ingrid-matuques-611a65234/)
