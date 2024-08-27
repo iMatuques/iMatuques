@@ -4,7 +4,7 @@
 
 <h2> Hi, I'm Ingrid Matuques! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3>
-    Lead Software | Hardware Integration Analyst at <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> &
+   Specialist in Hardware & Software integration <a href="https://fulltime.com.br/solucoes/fulltrack/">FullTrack</a> &
     CTO <a href="http://www.mexpenses.net">Mexpenses</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
@@ -24,7 +24,7 @@ const ingrid = {
 };
 ```
 
-- 📍 <b>Brazil, Alvinlândia SP</b> -
+- 📍 <b>Brazil, Garça SP</b> -
 -  :battery: 21 years
 - 📬 ingridmatuques@icloud.com</br>
 - <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>imatuques</b>
