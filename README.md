@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8f8f8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
 <h2> Hi, I'm Ingrid Matuques! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3>
@@ -29,6 +29,11 @@ const ingrid = {
 - 📬 ingridmatuques@icloud.com</br>
 - <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>imatuques</b>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Natcardoso&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff&bg_color=0d1117" alt=" Ingrid Matuques github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuqes&layout=compact&hide_border=true&title_color=8A2BE2&text_color=fff&bg_color=0d1117" />
+</div>
+
 <div align="center">
   <a href="https://github.com/iMatuques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -44,4 +49,4 @@ const ingrid = {
 <img src="https://general-storage-mexpenses.s3.amazonaws.com/aws-training.png" height="100" width="auto"/>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8f8f8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
