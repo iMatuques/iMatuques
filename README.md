@@ -30,16 +30,11 @@ const ingrid = {
 - <img src="https://cdn.simpleicons.org/discord" width="15" height="auto"/>&nbsp;<b>imatuques</b>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Natcardoso&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff&bg_color=0d1117" alt=" Ingrid Matuques github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff&bg_color=0d1117" alt=" Ingrid Matuques github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuqes&layout=compact&hide_border=true&title_color=8A2BE2&text_color=fff&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/iMatuques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMatuques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMatuques&layout=compact&langs_count=7&theme=github_dark&cache_seconds=1800"/>
-   </a>
-</div>
+
 
 <h2 dir="auto">Study platforms</h2>
 <p>
