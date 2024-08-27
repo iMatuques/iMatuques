@@ -35,7 +35,7 @@ const ingrid = {
 </div>
 
 <p align="center">
-![Snake animation](https://github.com/iMatuques/iMatuques/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/iMatuques/iMatuques/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <h2 dir="auto">Study platforms</h2>
